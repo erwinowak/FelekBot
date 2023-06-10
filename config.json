@@ -1,0 +1,8 @@
+{
+    "token":"dodaj token bota",
+    "autodelete":300,
+    "prefix":"!",
+    "Gen_channel": "dodaj id kanału gen",
+    "drop_channel": "dodaj id kanału drop"
+    
+}
